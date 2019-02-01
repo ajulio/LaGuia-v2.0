@@ -1,0 +1,39 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.laguia.ilustremunicipalidaddelaserena"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.laguia.ilustremunicipalidaddelaserena"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.laguia.ilustremunicipalidaddelaserena"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.laguia.ilustremunicipalidaddelaserena"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.laguia.ilustremunicipalidaddelaserena"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.laguia.ilustremunicipalidaddelaserena"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.laguia.ilustremunicipalidaddelaserena"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.laguia.ilustremunicipalidaddelaserena"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.laguia.ilustremunicipalidaddelaserena"
+        }
+    },
+    "dependent_plugins": {}
+}
